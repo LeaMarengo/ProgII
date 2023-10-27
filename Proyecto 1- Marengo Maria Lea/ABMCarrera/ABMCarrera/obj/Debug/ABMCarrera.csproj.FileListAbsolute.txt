@@ -1,0 +1,24 @@
+C:\Users\tomas\OneDrive\Escritorio\Progra\ABMCarrera\ABMCarrera\bin\Debug\ABMCarrera.exe.config
+C:\Users\tomas\OneDrive\Escritorio\Progra\ABMCarrera\ABMCarrera\bin\Debug\ABMCarrera.exe
+C:\Users\tomas\OneDrive\Escritorio\Progra\ABMCarrera\ABMCarrera\bin\Debug\ABMCarrera.pdb
+C:\Users\tomas\OneDrive\Escritorio\Progra\ABMCarrera\ABMCarrera\obj\Debug\ABMCarrera.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Escritorio\Progra\ABMCarrera\ABMCarrera\obj\Debug\ABMCarrera.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomas\OneDrive\Escritorio\Progra\ABMCarrera\ABMCarrera\obj\Debug\ABMCarrera.Form1.resources
+C:\Users\tomas\OneDrive\Escritorio\Progra\ABMCarrera\ABMCarrera\obj\Debug\ABMCarrera.FrmNuevaCarrera.resources
+C:\Users\tomas\OneDrive\Escritorio\Progra\ABMCarrera\ABMCarrera\obj\Debug\ABMCarrera.Properties.Resources.resources
+C:\Users\tomas\OneDrive\Escritorio\Progra\ABMCarrera\ABMCarrera\obj\Debug\ABMCarrera.csproj.GenerateResource.cache
+C:\Users\tomas\OneDrive\Escritorio\Progra\ABMCarrera\ABMCarrera\obj\Debug\ABMCarrera.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Escritorio\Progra\ABMCarrera\ABMCarrera\obj\Debug\ABMCarrera.exe
+C:\Users\tomas\OneDrive\Escritorio\Progra\ABMCarrera\ABMCarrera\obj\Debug\ABMCarrera.pdb
+C:\Users\Usuario\Desktop\1er año\Segundo Cuatrimestre\PROG2\Proyectos\ABMCarreraTomi\ABMCarrera\ABMCarrera\bin\Debug\ABMCarrera.exe.config
+C:\Users\Usuario\Desktop\1er año\Segundo Cuatrimestre\PROG2\Proyectos\ABMCarreraTomi\ABMCarrera\ABMCarrera\bin\Debug\ABMCarrera.exe
+C:\Users\Usuario\Desktop\1er año\Segundo Cuatrimestre\PROG2\Proyectos\ABMCarreraTomi\ABMCarrera\ABMCarrera\bin\Debug\ABMCarrera.pdb
+C:\Users\Usuario\Desktop\1er año\Segundo Cuatrimestre\PROG2\Proyectos\ABMCarreraTomi\ABMCarrera\ABMCarrera\obj\Debug\ABMCarrera.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\1er año\Segundo Cuatrimestre\PROG2\Proyectos\ABMCarreraTomi\ABMCarrera\ABMCarrera\obj\Debug\ABMCarrera.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\1er año\Segundo Cuatrimestre\PROG2\Proyectos\ABMCarreraTomi\ABMCarrera\ABMCarrera\obj\Debug\ABMCarrera.Form1.resources
+C:\Users\Usuario\Desktop\1er año\Segundo Cuatrimestre\PROG2\Proyectos\ABMCarreraTomi\ABMCarrera\ABMCarrera\obj\Debug\ABMCarrera.FrmNuevaCarrera.resources
+C:\Users\Usuario\Desktop\1er año\Segundo Cuatrimestre\PROG2\Proyectos\ABMCarreraTomi\ABMCarrera\ABMCarrera\obj\Debug\ABMCarrera.Properties.Resources.resources
+C:\Users\Usuario\Desktop\1er año\Segundo Cuatrimestre\PROG2\Proyectos\ABMCarreraTomi\ABMCarrera\ABMCarrera\obj\Debug\ABMCarrera.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\1er año\Segundo Cuatrimestre\PROG2\Proyectos\ABMCarreraTomi\ABMCarrera\ABMCarrera\obj\Debug\ABMCarrera.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\1er año\Segundo Cuatrimestre\PROG2\Proyectos\ABMCarreraTomi\ABMCarrera\ABMCarrera\obj\Debug\ABMCarrera.exe
+C:\Users\Usuario\Desktop\1er año\Segundo Cuatrimestre\PROG2\Proyectos\ABMCarreraTomi\ABMCarrera\ABMCarrera\obj\Debug\ABMCarrera.pdb

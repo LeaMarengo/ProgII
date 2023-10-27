@@ -1,0 +1,15 @@
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\Carrera Tarea 2\Carrera Tarea 2\bin\Debug\Carrera Tarea 2.exe.config
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\Carrera Tarea 2\Carrera Tarea 2\bin\Debug\Carrera Tarea 2.exe
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\Carrera Tarea 2\Carrera Tarea 2\bin\Debug\Carrera Tarea 2.pdb
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\Carrera Tarea 2\Carrera Tarea 2\obj\Debug\Carrera Tarea 2.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\Carrera Tarea 2\Carrera Tarea 2\obj\Debug\Carrera Tarea 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\Carrera Tarea 2\Carrera Tarea 2\obj\Debug\Carrera_Tarea_2.Vistas.ConsultarCarrera.resources
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\Carrera Tarea 2\Carrera Tarea 2\obj\Debug\Carrera_Tarea_2.Vistas.DetalleCarrera.resources
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\Carrera Tarea 2\Carrera Tarea 2\obj\Debug\Carrera_Tarea_2.Form1.resources
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\Carrera Tarea 2\Carrera Tarea 2\obj\Debug\Carrera_Tarea_2.Properties.Resources.resources
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\Carrera Tarea 2\Carrera Tarea 2\obj\Debug\Carrera_Tarea_2.Vistas.ModificarCarrera.resources
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\Carrera Tarea 2\Carrera Tarea 2\obj\Debug\Carrera_Tarea_2.Vistas.NuevaCarrea.resources
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\Carrera Tarea 2\Carrera Tarea 2\obj\Debug\Carrera Tarea 2.csproj.GenerateResource.cache
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\Carrera Tarea 2\Carrera Tarea 2\obj\Debug\Carrera Tarea 2.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\Carrera Tarea 2\Carrera Tarea 2\obj\Debug\Carrera Tarea 2.exe
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\Carrera Tarea 2\Carrera Tarea 2\obj\Debug\Carrera Tarea 2.pdb

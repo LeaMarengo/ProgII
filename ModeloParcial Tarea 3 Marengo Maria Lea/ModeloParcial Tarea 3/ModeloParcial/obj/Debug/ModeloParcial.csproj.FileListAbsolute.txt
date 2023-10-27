@@ -1,0 +1,229 @@
+C:\Users\tomas\OneDrive\Escritorio\Progra\ModeloParcial\ModeloParcial\bin\Debug\ModeloParcial.exe.config
+C:\Users\tomas\OneDrive\Escritorio\Progra\ModeloParcial\ModeloParcial\bin\Debug\ModeloParcial.exe
+C:\Users\tomas\OneDrive\Escritorio\Progra\ModeloParcial\ModeloParcial\bin\Debug\ModeloParcial.pdb
+C:\Users\tomas\OneDrive\Escritorio\Progra\ModeloParcial\ModeloParcial\obj\Debug\ModeloParcial.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Escritorio\Progra\ModeloParcial\ModeloParcial\obj\Debug\ModeloParcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomas\OneDrive\Escritorio\Progra\ModeloParcial\ModeloParcial\obj\Debug\ModeloParcial.Presentacion.Form2.resources
+C:\Users\tomas\OneDrive\Escritorio\Progra\ModeloParcial\ModeloParcial\obj\Debug\ModeloParcial.Properties.Resources.resources
+C:\Users\tomas\OneDrive\Escritorio\Progra\ModeloParcial\ModeloParcial\obj\Debug\ModeloParcial.csproj.GenerateResource.cache
+C:\Users\tomas\OneDrive\Escritorio\Progra\ModeloParcial\ModeloParcial\obj\Debug\ModeloParcial.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Escritorio\Progra\ModeloParcial\ModeloParcial\obj\Debug\ModeloParcial.exe
+C:\Users\tomas\OneDrive\Escritorio\Progra\ModeloParcial\ModeloParcial\obj\Debug\ModeloParcial.pdb
+C:\Users\tomas\OneDrive\Escritorio\Progra\ModeloParcial\ModeloParcial\obj\Debug\ModeloParcial.Form1.resources
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial\ModeloParcial\bin\Debug\ModeloParcial.exe.config
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial\ModeloParcial\bin\Debug\ModeloParcial.exe
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial\ModeloParcial\bin\Debug\ModeloParcial.pdb
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial\ModeloParcial\obj\Debug\ModeloParcial.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial\ModeloParcial\obj\Debug\ModeloParcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial\ModeloParcial\obj\Debug\ModeloParcial.Form1.resources
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial\ModeloParcial\obj\Debug\ModeloParcial.Presentacion.Form2.resources
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial\ModeloParcial\obj\Debug\ModeloParcial.Properties.Resources.resources
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial\ModeloParcial\obj\Debug\ModeloParcial.csproj.GenerateResource.cache
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial\ModeloParcial\obj\Debug\ModeloParcial.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial\ModeloParcial\obj\Debug\ModeloParcial.exe
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial\ModeloParcial\obj\Debug\ModeloParcial.pdb
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ModeloParcial.exe.config
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ModeloParcial.exe
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ModeloParcial.pdb
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\obj\Debug\ModeloParcial.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\obj\Debug\ModeloParcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\obj\Debug\ModeloParcial.Presentacion.ConsultarOrdenRetiro.resources
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\obj\Debug\ModeloParcial.Form1.resources
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\obj\Debug\ModeloParcial.Presentacion.Form2.resources
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\obj\Debug\ModeloParcial.Presentacion.FormDetalleOrden.resources
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\obj\Debug\ModeloParcial.Presentacion.FormModificarOrden.resources
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\obj\Debug\ModeloParcial.Properties.Resources.resources
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\obj\Debug\ModeloParcial.csproj.GenerateResource.cache
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\obj\Debug\ModeloParcial.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\obj\Debug\ModeloParcial.exe
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\obj\Debug\ModeloParcial.pdb
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\obj\Debug\ModeloParcial.Presentacion.FrmReporte.resources
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\obj\Debug\ModeloParcial.csproj.CopyComplete
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\EnvDTE.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\stdole.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-HANS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-HANT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-HANS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-HANT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ModeloParcial.exe.config
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ModeloParcial.exe
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ModeloParcial.pdb
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\EnvDTE.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-HANS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-HANT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-HANS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-HANT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\obj\Debug\ModeloParcial.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\obj\Debug\ModeloParcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\obj\Debug\ModeloParcial.Presentacion.ConsultarOrdenRetiro.resources
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\obj\Debug\ModeloParcial.Form1.resources
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\obj\Debug\ModeloParcial.Presentacion.Form2.resources
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\obj\Debug\ModeloParcial.Presentacion.FormDetalleOrden.resources
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\obj\Debug\ModeloParcial.Presentacion.FormModificarOrden.resources
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\obj\Debug\ModeloParcial.Presentacion.FrmReporte.resources
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\obj\Debug\ModeloParcial.Properties.Resources.resources
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\obj\Debug\ModeloParcial.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\obj\Debug\ModeloParcial.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\obj\Debug\ModeloParcial.csproj.CopyComplete
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\obj\Debug\ModeloParcial.exe
+C:\Users\Usuario\Desktop\ModeloParcial Tarea 3\ModeloParcial Tarea 3\ModeloParcial\obj\Debug\ModeloParcial.pdb
